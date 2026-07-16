@@ -1,4 +1,4 @@
-# IC-INN
+# CG-INN
 
 ```
 pip install torch torchvision kornia numpy pandas tqdm Pillow openpyxl
